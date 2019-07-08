@@ -26,8 +26,8 @@ const routes = [
         "path": "/dashboard",
         "routes": [
           {
-            "path": "/dashboard/analysis",
-            "component": require('../Dashboard/Analysis').default,
+            "path": "/dashboard/明白卡",
+            "component": require('../Dashboard/明白卡').default,
             "exact": true
           },
           {

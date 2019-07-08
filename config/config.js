@@ -20,7 +20,7 @@ export default {
           {
             path: '/dashboard',
             routes: [
-              { path: '/dashboard/analysis', component: 'Dashboard/Analysis' },
+              { path: '/dashboard/明白卡', component: 'Dashboard/明白卡' },
               { path: '/dashboard/monitor', component: 'Dashboard/Monitor' },
               { path: '/dashboard/workplace', component: 'Dashboard/Workplace' }
             ]
